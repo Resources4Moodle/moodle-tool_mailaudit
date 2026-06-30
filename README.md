@@ -1,6 +1,6 @@
 # Sent email audit (tool_mailaudit)
 
-[![Moodle Plugin CI](https://github.com/OWNER/moodle-tool_mailaudit/actions/workflows/moodle-ci.yml/badge.svg)](https://github.com/OWNER/moodle-tool_mailaudit/actions/workflows/moodle-ci.yml)
+[![Moodle Plugin CI](https://github.com/jspackiaraj/moodle-tool_mailaudit/actions/workflows/moodle-ci.yml/badge.svg)](https://github.com/jspackiaraj/moodle-tool_mailaudit/actions/workflows/moodle-ci.yml)
 
 An admin tool that audits outbound Moodle mail. It records the notifications and
 messages Moodle dispatches (plus failed direct email and password-reset mail) into
