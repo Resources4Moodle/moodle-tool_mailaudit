@@ -1,0 +1,33 @@
+/* Sent email audit tool. */
+
+.tool-mailaudit-filters-summary {
+    cursor: pointer;
+}
+
+.tool-mailaudit-chips .badge {
+    font-weight: normal;
+}
+
+.tool-mailaudit-sticky {
+    position: sticky;
+    bottom: 0;
+    z-index: 5;
+    background: var(--body-bg, #fff);
+    border-top: 1px solid #dee2e6;
+    padding-top: 0.5rem;
+}
+
+.tool-mailaudit-mailbox td {
+    vertical-align: middle;
+}
+
+a.tool-mailaudit-statcard {
+    background-color: #f8f9fa;
+    transition: background-color 0.1s ease-in-out, box-shadow 0.1s ease-in-out;
+}
+
+a.tool-mailaudit-statcard:hover,
+a.tool-mailaudit-statcard:focus {
+    background-color: #e9ecef;
+    box-shadow: 0 0 0 2px rgba(0, 105, 217, 0.25);
+}
