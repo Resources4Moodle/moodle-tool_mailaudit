@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<XMLDB PATH="admin/tool/mailaudit/db" VERSION="2026063002" COMMENT="XMLDB file for Moodle mail audit tool"
+<XMLDB PATH="admin/tool/mailaudit/db" VERSION="2026070100" COMMENT="XMLDB file for Moodle mail audit tool"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="../../../../lib/xmldb/xmldb.xsd"
 >

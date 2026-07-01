@@ -11,7 +11,7 @@ site-wide visibility for administrators.
 - **Supported Moodle:** 5.2 (`MOODLE_502_STABLE`)
 - **Supported PHP:** 8.2 – 8.4
 - **Databases:** PostgreSQL and MySQL/MariaDB
-- **Maturity:** Stable · **Release:** 1.0.0
+- **Maturity:** Stable · **Release:** 1.0.1
 - **License:** [GNU GPL v3 or later](https://www.gnu.org/copyleft/gpl.html)
 
 ## Features
