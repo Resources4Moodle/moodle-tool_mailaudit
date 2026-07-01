@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-labelledby="title desc">
+  <title id="title">Sent email audit</title>
+  <desc id="desc">An envelope inspected by a magnifier with a checkmark, on a blue badge.</desc>
+  <defs>
+    <linearGradient id="mabg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2f7dd1"/>
+      <stop offset="1" stop-color="#0f6cbf"/>
+    </linearGradient>
+  </defs>
+  <!-- Badge -->
+  <rect x="16" y="16" width="480" height="480" rx="104" fill="url(#mabg)"/>
+  <rect x="16" y="16" width="480" height="480" rx="104" fill="none" stroke="#ffffff" stroke-opacity="0.16" stroke-width="4"/>
+  <!-- Envelope -->
+  <g transform="translate(0 -8)">
+    <rect x="108" y="150" width="252" height="176" rx="18" fill="#ffffff"/>
+    <path d="M116 162 234 250 352 162" fill="none" stroke="#0f6cbf" stroke-width="14" stroke-linejoin="round" stroke-linecap="round"/>
+  </g>
+  <!-- Audit magnifier with checkmark -->
+  <g>
+    <circle cx="332" cy="332" r="82" fill="#ffffff"/>
+    <circle cx="332" cy="332" r="82" fill="none" stroke="#0f6cbf" stroke-opacity="0.15" stroke-width="6"/>
+    <polyline points="298,332 324,358 368,304" fill="none" stroke="#2aa25a" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="392" y1="392" x2="440" y2="440" stroke="#ffffff" stroke-width="26" stroke-linecap="round"/>
+    <line x1="392" y1="392" x2="440" y2="440" stroke="#0f6cbf" stroke-width="14" stroke-linecap="round"/>
+  </g>
+</svg>
